@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Sanxia.html",
+    "currentPage": "sanxia.html",
     "name": "雲端導遊",
     "theme": {
       "name": "mobirise3",
@@ -1425,7 +1425,7 @@
         }
       ]
     },
-    "Sanxia.html": {
+    "sanxia.html": {
       "settings": {
         "title": "三峽",
         "meta_descr": "三峽",
