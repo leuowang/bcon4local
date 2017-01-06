@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "activity.html",
+    "currentPage": "sanxia.html",
     "name": "雲端導遊",
     "theme": {
       "name": "mobirise3",
@@ -1493,7 +1493,7 @@
           },
           "title": "三峽老街新體驗",
           "text": "每一個城市都有一條具有在地文化代表性的街道，它不僅是觀光景點，更是外人認識與體驗當地獨特文化魅力的重要媒介。",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">閱讀更多</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"activity.html\" data-toolbar=\"-mbrBtnMove\">閱讀更多</a>"
         },
         {
           "_tags": [
@@ -1546,7 +1546,7 @@
           },
           "title": "<font color=\"#000000\">點廣告 拿贈品 &nbsp;再抽獎</font>",
           "text": "找到店家 、出示條碼、粉絲專頁按讚<br>馬上拿贈品<br><font color=\"#000000\">註冊會員、填資料再抽大獎</font>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">我想參加</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"activity.html\" data-toolbar=\"-mbrBtnMove\">我想參加</a>"
         },
         {
           "_tags": [
