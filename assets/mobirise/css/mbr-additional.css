@@ -408,9 +408,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #features6-8 FONT {
   color: #5b5b5b;
 }
@@ -747,6 +744,10 @@ h6,
 }
 #msg-box5-1c FONT {
   color: #ffffff;
+}
+#msg-box8-1q .mbr-section-title,
+#msg-box8-1q p {
+  color: #fff;
 }
 #social-buttons2-1i .mbr-section-title,
 #social-buttons2-1i .btn-social {
