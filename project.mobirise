@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "sanxia.html",
+    "currentPage": "activity.html",
     "name": "雲端導遊",
     "theme": {
       "name": "mobirise3",
@@ -1769,7 +1769,7 @@
           },
           "title": "陳元春文物坊",
           "text": "(1) 找到這家店，向店家出示條碼<br>(2) &nbsp;雲端導遊粉絲頁按讚<br>(3) 馬上可拿贈品<br>(4) <font color=\"#000000\">註冊會員填資料，再抽大獎</font><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>雲端導遊按讚</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>我要抽大獎</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"activity.html#social-buttons2-1i\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span>雲端導遊按讚</a> <a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span>我要抽大獎</a>"
         },
         {
           "_tags": [
